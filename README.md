@@ -183,10 +183,4 @@ Profissional com experiência em desenvolvimento full-stack e mobile no ecossist
 
 </p>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
-<img 
-  alt="Gráfico de contribuições" 
-  src="https://ghchart.rshah.org/39d353/samuelgomes0309" 
-  width="100%"
-/>
+ 
