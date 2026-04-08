@@ -165,20 +165,14 @@ Profissional com experiência em desenvolvimento full-stack e mobile no ecossist
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=samuelgomes0309&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
-  />
+<!-- Stats -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samuelgomes0309&theme=tokyonight" />
 
-<img 
-    align="left" 
-    alt="Linguagens mais usadas" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelgomes0309&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<!-- Linguagens -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samuelgomes0309&theme=tokyonight" />
 
-</p>
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com?user=samuelgomes0309&theme=tokyonight" />
+
+<!-- Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samuelgomes0309&theme=tokyo-night" />
